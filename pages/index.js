@@ -1,5 +1,5 @@
 function Home() {
-    return <div>Teste</div>;
+    return <div>Frase mais certa</div>;
 }
 
 export default Home;
